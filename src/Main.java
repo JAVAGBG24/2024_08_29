@@ -15,6 +15,7 @@ public class Main {
         // variabel där vi kan spara ner åldern
         // är av datatypen int
         int age;
+        System.out.println("hej");
 
         // variabel för att kolla om personen är student eller inte
         // är av datatypen boolen => kan bara vara true eller false
